@@ -1,0 +1,124 @@
+query,true_disease,predicted_disease
+I have been experiencing abdominal pain and headache and vomiting. What could be the issue?,Fungal infection,Fungal infection
+I have been experiencing fatigue and vomiting and joint pain and nausea. What could be the issue?,Fungal infection,Fungal infection
+I have been experiencing weight loss and itching and abdominal pain. What could be the issue?,Fungal infection,Heart attack
+I have been experiencing dark urine and burning micturition and headache. What could be the issue?,Allergy,Allergy
+I have been experiencing dark urine and weight loss and vomiting. What could be the issue?,Allergy,Hypertension
+I have been experiencing headache and abdominal pain and loss of appetite and fever and skin rash and nausea. What could be the issue?,Allergy,Allergy
+I have been experiencing joint pain and headache and skin rash and vomiting and loss of appetite and yellowish skin. What could be the issue?,GERD,Diabetes
+I have been experiencing skin rash and loss of appetite and itching. What could be the issue?,GERD,Hypertension
+I have been experiencing nausea and headache and loss of appetite and abdominal pain and runny nose. What could be the issue?,GERD,AIDS
+I have been experiencing vomiting and loss of appetite and itching and headache and fatigue and joint pain. What could be the issue?,Chronic cholestasis,Chronic cholestasis
+I have been experiencing dark urine and skin rash and abdominal pain and joint pain and vomiting. What could be the issue?,Chronic cholestasis,(vertigo) Paroymsal Positional Vertigo
+I have been experiencing skin rash and burning micturition and weight loss and itching and dark urine. What could be the issue?,Chronic cholestasis,Chronic cholestasis
+I have been experiencing fever and nausea and skin rash and yellowish skin and weight loss. What could be the issue?,Drug Reaction,Tuberculosis
+I have been experiencing headache and skin rash and muscle pain and joint pain. What could be the issue?,Drug Reaction,Cervical spondylosis
+I have been experiencing burning micturition and yellowish skin and runny nose and dark urine. What could be the issue?,Drug Reaction,Drug Reaction
+I have been experiencing burning micturition and joint pain and weight loss and loss of appetite and fever. What could be the issue?,Peptic ulcer diseae,Peptic ulcer diseae
+I have been experiencing burning micturition and itching and loss of appetite. What could be the issue?,Peptic ulcer diseae,Peptic ulcer diseae
+I have been experiencing loss of appetite and headache and itching and vomiting and muscle pain. What could be the issue?,Peptic ulcer diseae,Peptic ulcer diseae
+I have been experiencing dark urine and sore throat and runny nose and joint pain and burning micturition. What could be the issue?,AIDS,Urinary tract infection
+I have been experiencing headache and fatigue and vomiting and nausea. What could be the issue?,AIDS,(vertigo) Paroymsal Positional Vertigo
+I have been experiencing weight loss and loss of appetite and yellowish skin and vomiting and skin rash. What could be the issue?,AIDS,Hepatitis D
+I have been experiencing skin rash and itching and weight loss and sore throat and runny nose and joint pain. What could be the issue?,Diabetes,Diabetes
+I have been experiencing weight loss and skin rash and dark urine and fever. What could be the issue?,Diabetes,Diabetes
+I have been experiencing runny nose and headache and sore throat and weight loss and abdominal pain and joint pain. What could be the issue?,Diabetes,Diabetes
+I have been experiencing headache and joint pain and itching. What could be the issue?,Gastroenteritis,Gastroenteritis
+I have been experiencing weight loss and yellowish skin and burning micturition and abdominal pain and nausea. What could be the issue?,Gastroenteritis,Gastroenteritis
+I have been experiencing runny nose and yellowish skin and headache and itching and joint pain. What could be the issue?,Gastroenteritis,Gastroenteritis
+I have been experiencing runny nose and dark urine and skin rash and yellowish skin and loss of appetite. What could be the issue?,Bronchial Asthma,Bronchial Asthma
+I have been experiencing runny nose and abdominal pain and muscle pain and yellowish skin. What could be the issue?,Bronchial Asthma,Bronchial Asthma
+I have been experiencing abdominal pain and vomiting and fever and yellowish skin and loss of appetite and fatigue. What could be the issue?,Bronchial Asthma,Bronchial Asthma
+I have been experiencing itching and burning micturition and fever and muscle pain. What could be the issue?,Hypertension,Heart attack
+I have been experiencing skin rash and sore throat and weight loss. What could be the issue?,Hypertension,Pneumonia
+I have been experiencing fatigue and runny nose and joint pain. What could be the issue?,Hypertension,Hypertension
+I have been experiencing yellowish skin and headache and sore throat and weight loss and muscle pain and dark urine. What could be the issue?,Migraine,Migraine
+I have been experiencing dark urine and muscle pain and runny nose and joint pain. What could be the issue?,Migraine,Migraine
+I have been experiencing fever and runny nose and itching and vomiting and weight loss. What could be the issue?,Migraine,Migraine
+I have been experiencing joint pain and abdominal pain and muscle pain. What could be the issue?,Cervical spondylosis,Varicose veins
+I have been experiencing burning micturition and abdominal pain and itching and nausea. What could be the issue?,Cervical spondylosis,Cervical spondylosis
+I have been experiencing burning micturition and skin rash and fever. What could be the issue?,Cervical spondylosis,Acne
+I have been experiencing joint pain and skin rash and headache. What could be the issue?,Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+I have been experiencing headache and sore throat and vomiting and runny nose. What could be the issue?,Paralysis (brain hemorrhage),Peptic ulcer diseae
+I have been experiencing sore throat and burning micturition and loss of appetite and runny nose. What could be the issue?,Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+I have been experiencing dark urine and vomiting and itching and joint pain and runny nose and yellowish skin. What could be the issue?,Jaundice,Jaundice
+I have been experiencing weight loss and fever and runny nose and nausea and abdominal pain and joint pain. What could be the issue?,Jaundice,(vertigo) Paroymsal Positional Vertigo
+I have been experiencing itching and loss of appetite and nausea. What could be the issue?,Jaundice,Jaundice
+I have been experiencing vomiting and burning micturition and runny nose and fever and headache. What could be the issue?,Malaria,Malaria
+I have been experiencing fatigue and weight loss and skin rash and runny nose and burning micturition and vomiting. What could be the issue?,Malaria,Malaria
+I have been experiencing fever and vomiting and abdominal pain. What could be the issue?,Malaria,Migraine
+I have been experiencing skin rash and burning micturition and runny nose. What could be the issue?,Chicken pox,Chicken pox
+I have been experiencing sore throat and runny nose and vomiting and weight loss and dark urine and abdominal pain. What could be the issue?,Chicken pox,Chicken pox
+I have been experiencing loss of appetite and abdominal pain and dark urine and fatigue. What could be the issue?,Chicken pox,Chicken pox
+I have been experiencing muscle pain and weight loss and nausea and fever and loss of appetite and headache. What could be the issue?,Dengue,Dengue
+I have been experiencing fatigue and dark urine and runny nose and vomiting and abdominal pain and muscle pain. What could be the issue?,Dengue,Dengue
+I have been experiencing joint pain and itching and abdominal pain. What could be the issue?,Dengue,Arthritis
+I have been experiencing runny nose and yellowish skin and abdominal pain and headache and itching and skin rash. What could be the issue?,Typhoid,Typhoid
+I have been experiencing skin rash and burning micturition and dark urine. What could be the issue?,Typhoid,Peptic ulcer diseae
+I have been experiencing burning micturition and itching and muscle pain. What could be the issue?,Typhoid,Typhoid
+I have been experiencing weight loss and joint pain and fever. What could be the issue?,hepatitis A,hepatitis A
+I have been experiencing dark urine and joint pain and vomiting and fatigue and runny nose. What could be the issue?,hepatitis A,hepatitis A
+I have been experiencing muscle pain and fever and yellowish skin and loss of appetite. What could be the issue?,hepatitis A,hepatitis A
+I have been experiencing abdominal pain and fever and muscle pain. What could be the issue?,Hepatitis B,Hepatitis B
+I have been experiencing skin rash and dark urine and headache. What could be the issue?,Hepatitis B,Dimorphic hemmorhoids(piles)
+I have been experiencing fatigue and nausea and fever and itching and vomiting. What could be the issue?,Hepatitis B,Peptic ulcer diseae
+I have been experiencing muscle pain and yellowish skin and burning micturition and weight loss and headache. What could be the issue?,Hepatitis C,Hepatitis C
+I have been experiencing runny nose and abdominal pain and joint pain and weight loss and headache. What could be the issue?,Hepatitis C,Hepatitis C
+I have been experiencing vomiting and fatigue and sore throat and itching and weight loss. What could be the issue?,Hepatitis C,Hepatitis C
+I have been experiencing headache and muscle pain and sore throat and vomiting. What could be the issue?,Hepatitis D,Hepatitis D
+I have been experiencing dark urine and headache and sore throat and burning micturition and fatigue. What could be the issue?,Hepatitis D,Hepatitis D
+I have been experiencing skin rash and weight loss and sore throat. What could be the issue?,Hepatitis D,Hepatitis D
+I have been experiencing itching and abdominal pain and yellowish skin and loss of appetite and skin rash. What could be the issue?,Hepatitis E,Hepatitis E
+I have been experiencing yellowish skin and fever and headache and nausea and dark urine. What could be the issue?,Hepatitis E,Arthritis
+I have been experiencing vomiting and skin rash and fever. What could be the issue?,Hepatitis E,Hepatitis E
+I have been experiencing itching and nausea and muscle pain and headache. What could be the issue?,Alcoholic hepatitis,Dengue
+I have been experiencing weight loss and fatigue and abdominal pain and sore throat. What could be the issue?,Alcoholic hepatitis,Alcoholic hepatitis
+I have been experiencing itching and nausea and vomiting and joint pain and fever. What could be the issue?,Alcoholic hepatitis,Alcoholic hepatitis
+I have been experiencing nausea and weight loss and muscle pain. What could be the issue?,Tuberculosis,Hepatitis B
+I have been experiencing burning micturition and yellowish skin and loss of appetite and fever. What could be the issue?,Tuberculosis,Tuberculosis
+I have been experiencing weight loss and abdominal pain and skin rash and nausea. What could be the issue?,Tuberculosis,Tuberculosis
+I have been experiencing weight loss and burning micturition and fatigue and skin rash and loss of appetite. What could be the issue?,Common Cold,Migraine
+I have been experiencing loss of appetite and itching and weight loss. What could be the issue?,Common Cold,Common Cold
+I have been experiencing burning micturition and dark urine and weight loss and runny nose and yellowish skin and fatigue. What could be the issue?,Common Cold,Dengue
+I have been experiencing burning micturition and abdominal pain and joint pain and vomiting. What could be the issue?,Pneumonia,Hypoglycemia
+I have been experiencing joint pain and headache and weight loss and itching and loss of appetite and fatigue. What could be the issue?,Pneumonia,Pneumonia
+I have been experiencing runny nose and loss of appetite and joint pain and weight loss and headache. What could be the issue?,Pneumonia,Cervical spondylosis
+I have been experiencing abdominal pain and vomiting and fever and fatigue and skin rash. What could be the issue?,Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles)
+I have been experiencing itching and vomiting and muscle pain and dark urine and yellowish skin. What could be the issue?,Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles)
+I have been experiencing weight loss and vomiting and dark urine and muscle pain and sore throat. What could be the issue?,Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles)
+I have been experiencing itching and weight loss and abdominal pain and headache and loss of appetite. What could be the issue?,Heart attack,Gastroenteritis
+I have been experiencing nausea and weight loss and itching and joint pain. What could be the issue?,Heart attack,Heart attack
+I have been experiencing joint pain and vomiting and nausea and fatigue and headache. What could be the issue?,Heart attack,Arthritis
+I have been experiencing weight loss and joint pain and dark urine and nausea and fatigue. What could be the issue?,Varicose veins,Varicose veins
+I have been experiencing dark urine and weight loss and joint pain and runny nose. What could be the issue?,Varicose veins,Impetigo
+I have been experiencing muscle pain and loss of appetite and headache and weight loss. What could be the issue?,Varicose veins,Hypothyroidism
+I have been experiencing muscle pain and runny nose and vomiting. What could be the issue?,Hypothyroidism,Hypothyroidism
+I have been experiencing joint pain and fever and burning micturition and sore throat and runny nose and vomiting. What could be the issue?,Hypothyroidism,Hypothyroidism
+I have been experiencing yellowish skin and skin rash and fatigue and headache and joint pain and loss of appetite. What could be the issue?,Hypothyroidism,Hypothyroidism
+I have been experiencing skin rash and burning micturition and joint pain and fatigue and vomiting. What could be the issue?,Hyperthyroidism,Hyperthyroidism
+I have been experiencing fatigue and abdominal pain and sore throat and vomiting. What could be the issue?,Hyperthyroidism,Hyperthyroidism
+I have been experiencing skin rash and fever and dark urine and joint pain and muscle pain and vomiting. What could be the issue?,Hyperthyroidism,Chicken pox
+I have been experiencing sore throat and loss of appetite and vomiting and skin rash and joint pain and nausea. What could be the issue?,Hypoglycemia,Varicose veins
+I have been experiencing vomiting and weight loss and runny nose. What could be the issue?,Hypoglycemia,Hypoglycemia
+I have been experiencing runny nose and fever and abdominal pain and headache. What could be the issue?,Hypoglycemia,Hypoglycemia
+I have been experiencing vomiting and fever and skin rash and loss of appetite. What could be the issue?,Osteoarthristis,Osteoarthristis
+I have been experiencing runny nose and joint pain and loss of appetite and burning micturition and muscle pain and nausea. What could be the issue?,Osteoarthristis,Osteoarthristis
+I have been experiencing fever and yellowish skin and nausea and weight loss and burning micturition and loss of appetite. What could be the issue?,Osteoarthristis,Osteoarthristis
+I have been experiencing burning micturition and headache and loss of appetite and fever and sore throat. What could be the issue?,Arthritis,Arthritis
+I have been experiencing burning micturition and headache and runny nose and itching and nausea and fatigue. What could be the issue?,Arthritis,hepatitis A
+I have been experiencing headache and joint pain and yellowish skin and runny nose. What could be the issue?,Arthritis,Arthritis
+I have been experiencing fatigue and runny nose and vomiting. What could be the issue?,(vertigo) Paroymsal Positional Vertigo,(vertigo) Paroymsal Positional Vertigo
+I have been experiencing fatigue and dark urine and itching and sore throat and weight loss and yellowish skin. What could be the issue?,(vertigo) Paroymsal Positional Vertigo,(vertigo) Paroymsal Positional Vertigo
+I have been experiencing weight loss and itching and vomiting and runny nose and dark urine and loss of appetite. What could be the issue?,(vertigo) Paroymsal Positional Vertigo,(vertigo) Paroymsal Positional Vertigo
+I have been experiencing loss of appetite and sore throat and abdominal pain. What could be the issue?,Acne,Acne
+I have been experiencing muscle pain and loss of appetite and weight loss and fever and dark urine. What could be the issue?,Acne,Acne
+I have been experiencing sore throat and burning micturition and fatigue and dark urine. What could be the issue?,Acne,Alcoholic hepatitis
+I have been experiencing abdominal pain and loss of appetite and yellowish skin and joint pain and weight loss and dark urine. What could be the issue?,Urinary tract infection,Urinary tract infection
+I have been experiencing fever and fatigue and muscle pain and headache. What could be the issue?,Urinary tract infection,Urinary tract infection
+I have been experiencing loss of appetite and abdominal pain and itching. What could be the issue?,Urinary tract infection,Pneumonia
+I have been experiencing fatigue and fever and skin rash and abdominal pain and runny nose and dark urine. What could be the issue?,Psoriasis,Psoriasis
+I have been experiencing dark urine and fever and yellowish skin and sore throat and loss of appetite. What could be the issue?,Psoriasis,Psoriasis
+I have been experiencing headache and weight loss and fatigue and sore throat and itching and burning micturition. What could be the issue?,Psoriasis,Psoriasis
+I have been experiencing itching and nausea and vomiting. What could be the issue?,Impetigo,Paralysis (brain hemorrhage)
+I have been experiencing itching and abdominal pain and vomiting. What could be the issue?,Impetigo,Impetigo
+I have been experiencing abdominal pain and fatigue and vomiting and skin rash. What could be the issue?,Impetigo,Impetigo

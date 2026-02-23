@@ -1,0 +1,14 @@
+spacy
+nltk
+numpy
+sentence_transformers
+scikit-learn
+pandas
+ipykernel
+torch
+transformers
+matplotlib
+seaborn
+symspellpy
+rapidfuzz
+streamlit

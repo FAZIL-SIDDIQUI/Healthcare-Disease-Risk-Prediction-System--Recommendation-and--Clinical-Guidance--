@@ -199,8 +199,7 @@ A custom Symptom Dictionary maps everyday expressions to standardized medical te
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/sayyedsabirali/Minor-Project.git
-cd Minor-Project
+git clone hhttps://github.com/FAZIL-SIDDIQUI/Healthcare-Disease-Risk-Prediction-System--Recommendation-and--Clinical-Guidance--.git
 ```
 
 **2. Create a virtual environment**
@@ -252,8 +251,8 @@ symspellpy · rapidfuzz · streamlit · ipykernel
 
 | Name | Faculty No. | Role |
 |------|-------------|------|
-| **Sayyed Sabir Ali** | 22AIB320 | Lead Developer & NLP Engineer |
-| **Mohd Fazil** | 22AIB261 | ML Engineer & System Architect |
+| **Mohd Fazil** | 22AIB261 | Lead Developer & Data Scientist |
+| **Sayyed Sabir Ali** | 22AIB320 | ML Engineer & System Architect |
 
 **Supervisor:** Ms. Ayesha Khan  
 **Institution:** ZHCET AMU, Aligarh
